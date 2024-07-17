@@ -1,6 +1,8 @@
 # SGG-References
 
-Mattalika ->  1. Lorenz, J., Schön, R., Ludwig, K., & Lienhart, R. (2024). A Review and Efficient Implementation of Scene Graph Generation Metrics. https://arxiv.org/abs/2404.09616
+[M] = covered by Mattalika / G = covered by Georgi / L = covered by Li Lin
+
+1. Lorenz, J., Schön, R., Ludwig, K., & Lienhart, R. (2024). A Review and Efficient Implementation of Scene Graph Generation Metrics. https://arxiv.org/abs/2404.09616
 Mattalika ->  2. Ziaeefard, M., & Lecue, F. (2020). Towards Knowledge-Augmented Visual Question Answering. In D. Scott, N. Bel, & C. Zong (Eds.), Proceedings of the 28th International Conference on Computational Linguistics (pp. 1863–1873). International Committee on Computational Linguistics. https://doi.org/10.18653/v1/2020.coling-main.169
 Mattalika ->  3. Jiang, B., Zhuang, Z., & Taylor, C. J. (2023). Enhancing Scene Graph Generation with Hierarchical Relationships and Commonsense Knowledge. https://arxiv.org/abs/2311.12889
 Georgi ->  4. Kim, H., Kim, S., Ahn, D., Lee, J. T., & Ko, B. C. (2024). Scene Graph Generation Strategy with Co-occurrence Knowledge and Learnable Term Frequency. https://arxiv.org/abs/2405.12648
