@@ -1,6 +1,6 @@
 # SGG-References
 
-[M] = covered by Mattalika / [G] = covered by Georgi / [L] = covered by Li Lin
+[M] = covered by Mattalika / [G] = covered by Georgi / [L] = covered by Lin Li
 
 1. [M] Lorenz, J., Schön, R., Ludwig, K., & Lienhart, R. (2024). A Review and Efficient Implementation of Scene Graph Generation Metrics. https://arxiv.org/abs/2404.09616
 2. [M] Ziaeefard, M., & Lecue, F. (2020). Towards Knowledge-Augmented Visual Question Answering. In D. Scott, N. Bel, & C. Zong (Eds.), Proceedings of the 28th International Conference on Computational Linguistics (pp. 1863–1873). International Committee on Computational Linguistics. https://doi.org/10.18653/v1/2020.coling-main.169
